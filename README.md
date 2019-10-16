@@ -18,7 +18,7 @@
 |  14  |                                                              |
 |  15  |                                                              |
 |  16  |                                                              |
-|  17  | [Generics]([https://github.com/SherryShi0108/ProgrammingBooks/blob/master/Illustrated%20C%23%202012/CH17_Generics.cs](https://github.com/SherryShi0108/ProgrammingBooks/blob/master/Illustrated C%23 2012/CH17_Generics.cs)) |
+|  17  | [Generics](https://github.com/SherryShi0108/ProgrammingBooks/blob/master/Illustrated%20C%23%202012/CH17_Generics.cs)|
 |  18  |                                                              |
 |  19  |                                                              |
 |  20  |                                                              |
