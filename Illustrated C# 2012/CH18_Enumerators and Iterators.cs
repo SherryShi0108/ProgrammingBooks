@@ -253,7 +253,15 @@ namespace IllustratedCSharp2012_18
     {
         static void MainTest()
         {
-
+            Spectrum a=new Spectrum(false);
+            foreach(string s1 in a)
+            {
+            }
+            
+            Spectrum b=new Spectrum(true);
+            foreach(string s2 in b)
+            {
+            }            
         }
     }
 
@@ -268,7 +276,7 @@ namespace IllustratedCSharp2012_18
 
         public IEnumerator<string> GeEnumerator()
         {
-
+            return _isAtB?Test1:Test2;
         }
 
         public IEnumerator<string> Test1
