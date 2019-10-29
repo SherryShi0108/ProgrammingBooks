@@ -34,13 +34,13 @@
 
 | 章节 | Code |
 | :--: | ---- |
-|  1   |      |
-|  2   |      |
+|  1   |  [Python Basics](https://github.com/SherryShi0108/ProgrammingBooks/blob/master/Automate%20The%20Boring%20Stuff%20With%20Python/CH01.py)    |
+|  2   |  [Flow Control](https://github.com/SherryShi0108/ProgrammingBooks/blob/master/Automate%20The%20Boring%20Stuff%20With%20Python/CH02.py)    |
 |  3   |      |
 |  4   |      |
 |  5   |      |
 |  6   |      |
-|      |      |
+|  7   |      |
 |  8   |      |
 |  9   |      |
 |  10  |      |
